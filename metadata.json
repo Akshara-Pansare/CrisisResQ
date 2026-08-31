@@ -1,6 +1,0 @@
-{
-  "name": "CrisisResQ",
-  "description": "AI and GIS-powered disaster-management decision support platform for risk detection, vulnerable population assessment, shelter capacity optimization, and emergency relocation operations.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

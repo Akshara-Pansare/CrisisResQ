@@ -39,15 +39,3 @@ CrisisResQ brings these capabilities together in a single decision-support platf
 - Interactive Maps
 - Data Visualization
 
-## ⚙️ Getting Started
-
-### Prerequisites
-
-Make sure you have Node.js installed.
-
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Akshara-Pansare/CrisisResQ.git
