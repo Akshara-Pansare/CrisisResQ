@@ -1,20 +1,53 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# CrisisResQ
 
-# Run and deploy your AI Studio app
+### AI-Powered Disaster Management & Emergency Response Platform
 
-This contains everything you need to run your app locally.
+CrisisResQ is a disaster management platform designed to help identify vulnerable regions, assess emergency situations, and support faster, data-driven disaster response.
 
-View your app in AI Studio: https://ai.studio/apps/fbe2f41e-df13-47ba-9e3c-95d937c5c231
+## 🚨 Problem
 
-## Run Locally
+During disasters, authorities and responders need to quickly understand:
 
-**Prerequisites:**  Node.js
+- Which areas are most vulnerable?
+- How many people may be affected?
+- Where should people be relocated?
+- Which shelters have available capacity?
+- What routes can be used for evacuation?
+- Where should emergency resources be prioritized?
 
+CrisisResQ brings these capabilities together in a single decision-support platform.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Key Features
+
+- 🗺️ Interactive disaster and hazard mapping
+- 📊 Risk and vulnerability assessment
+- 👥 Vulnerable population identification
+- 🏠 Shelter capacity assessment
+- 🚨 Emergency relocation planning
+- 🛣️ Evacuation route planning
+- 📍 Location-based disaster intelligence
+- 📈 Data visualization and analytics
+- 🤖 AI-assisted decision support
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Google Gemini API
+- Interactive Maps
+- Data Visualization
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js installed.
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Akshara-Pansare/CrisisResQ.git
